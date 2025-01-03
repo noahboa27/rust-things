@@ -1,0 +1,10 @@
+[package]
+name = "twelve-days-of-christmas"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "twelve-days-of-christmas"
+path = "main.rs"
